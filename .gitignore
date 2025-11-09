@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jac
+*.jacbin
+
+# Environment
+.env
+.venv
+
+# Temporary files
+BE/temp_repos/*
+!BE/temp_repos/.gitkeep
+
+# Outputs
+outputs/*/
+!outputs/samples/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

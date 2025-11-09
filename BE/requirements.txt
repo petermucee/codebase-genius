@@ -1,0 +1,11 @@
+jaclang>=1.4.0
+python-dotenv
+requests
+gitpython
+tree-sitter
+streamlit
+pydantic
+pyyaml
+fastapi
+uvicorn
+python-multipart
